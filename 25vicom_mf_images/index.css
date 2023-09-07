@@ -106,8 +106,8 @@ img{ border:0;}
 
 
 .footcer_1 { background:url(../foot_img/bg.jpg) top center repeat-x #000; border-top:double 1px #FF0000;}
-.footcer_2 { margin:0 auto; width:1200px; height:300px; position:relative;}
-.footcer_3 { width:250px; height:140px; position:absolute; top:130px; left:0; z-index:7;}
+.footcer_2 { margin:0 auto; width:1200px; height:1px; position:relative;}
+.footcer_3 { width:250px; height:140px; position:absolute; top:70px; left:0; z-index:7;}
 .footcer_3 img { width:250px; height:140px;}
 .footcer_4 { width:1200px; height:70px; line-height:70px; text-align:center; border-bottom:dashed 1px #333; position:absolute; top:0px; left:0; z-index:7;}
 .footcer_4 a { font-size:14px; font-weight:200; color:#999; letter-spacing:3.5pt;}
@@ -115,10 +115,11 @@ img{ border:0;}
 .footcer_5 img { width:200px; height:57px;}
 
 .footcer_6 { width:800px; overflow:hidden; position:absolute; top:160px; right:0; text-align:right; z-index:7; color:#666; letter-spacing:1.4pt;}
-.footcer_6 a { padding:8px 5px; font-size:12px; color:#666;}
+.footcer_6 a { padding:8px 5px; fontgit
+-size:12px; color:#666;}
 .footcer_6 a:hover { color:#0CF; text-decoration:underline;}
 
-.footcer_7 { width:800px; overflow:hidden; position:absolute; top:190px; right:0; text-align:right; z-index:7; color:#666; letter-spacing:1.4pt;}
+.footcer_7 { width:800px; overflow:hidden; position:absolute; top:130px; right:0; text-align:right; z-index:7; color:#666; letter-spacing:1.4pt;}
 .footcer_7 a { padding:8px 5px; font-size:12px; color:#666; letter-spacing:1pt;}
 .footcer_7 a:hover { color:#0CF; text-decoration:underline;}
 
@@ -138,7 +139,7 @@ img{ border:0;}
 
 .kv-music{position:fixed;z-index:50;top:50px;left:50px; width:58px;height:100px;}
 
-.rightbar{width:242px;height:618px;position:fixed;top:50%;right:0;margin-top:-280px;background:url(left1.png) no-repeat;z-index:10000;text-align:center;color:#5b4022;-o-transition:all .5s;-webkit-transition:all .5s;-moz-transition:all .5s;-ms-transition:all .5s;transition:all .5s}
+.rightbar{width:242px;height:450px;position:fixed;top:50%;right:0;margin-top:-280px;background:url(left1.png) no-repeat;z-index:10000;text-align:center;color:#5b4022;-o-transition:all .5s;-webkit-transition:all .5s;-moz-transition:all .5s;-ms-transition:all .5s;transition:all .5s}
 .rightbar.close{right:-268px}
 .rightbar.close .btn-close{background:url(left4.png) no-repeat}
 .rightbar .btn-close{width:86px; height:73px; background:url(left2.png); position:absolute;top:10px; left:-86px}
